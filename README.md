@@ -17,3 +17,4 @@ in a graceful way. It also means that terminating the server terminates all asso
 The project is flexible with respect to the following:
 + The client can run in whatever environment (or set of environments) you like. Possibilities include Android and Java clients. 
 
+
