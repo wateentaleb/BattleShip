@@ -17,4 +17,8 @@ in a graceful way. It also means that terminating the server terminates all asso
 The project is flexible with respect to the following:
 + The client can run in whatever environment (or set of environments) you like. Possibilities include Android and Java clients. 
 
+## Demonstration 
+
+![battleship](https://user-images.githubusercontent.com/16707828/74701538-09a65100-51d5-11ea-9c69-6633410abe09.gif)
+
 
